@@ -6,5 +6,5 @@
 * python3 app.py
 
 ## Verificar funcionamiento
-* Ir a localhost:5000 y mandar la transacción.
+* Ir a localhost:5000/login y mandar la transacción.
 
